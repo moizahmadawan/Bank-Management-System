@@ -1,0 +1,14 @@
+# Compiled output
+out/
+*.class
+sources.txt
+
+# App data (created at runtime)
+data/
+
+# IDE / OS files
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
